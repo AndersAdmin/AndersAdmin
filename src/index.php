@@ -16,7 +16,8 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
-                <h2>Congratulations</h2>
+                <img src="https://aeb-myfirstbucket.s3-eu-west-1.amazonaws.com/csm_safetyfirst_97783fbe9e.jpg" alt="not working">
+                <h2>Congratulations Anders</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
